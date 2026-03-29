@@ -12,4 +12,6 @@
 
 **Об'єкт тестування:** Сторінка [GreenCity Events](https://www.greencity.cx.ua/#/greenCity/events)
 
+**Примітка:** [GC-001] — це унікальний ID тест-кейсу, де **GC** означає проєкт GreenCity, а **001** — порядковий номер тесту.
+
 **Автор роботи:** *Kyrylo-Yurii Popailo*
