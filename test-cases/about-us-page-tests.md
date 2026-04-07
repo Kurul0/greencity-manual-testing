@@ -4,7 +4,7 @@
 | :--- | :--- |
 | **Created** | 2026-04-07 |
 | **Last Executed** | 2026-04-07 |
-| **Status** | Failed (See Bug Report GC-BUG-001) |
+| **Status** | Failed |
 | **Environment** | Firefox v.149, Windows 10 |
 
 **Preconditions:**
