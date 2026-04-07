@@ -1,7 +1,7 @@
 ## [GC-001]: Verify opening, closing, and hover states of the burger menu on a narrowed desktop browser
 
 | Info | Value |
-| :--- | :--: |
+| :--- | :--- |
 | **Created** | 2026-03-29 |
 | **Last Executed** | 2026-03-29 |
 | **Status** | Passed |
@@ -24,7 +24,7 @@
 ## [GC-002]: Verify that an unauthorized user cannot react (like) a comment
 
 | Info | Value |
-| :--- | :--: |
+| :--- | :--- |
 | **Created** | 2026-03-29 |
 | **Last Executed** | 2026-03-29 |
 | **Status** | Passed |
@@ -45,7 +45,7 @@
 ## [GC-003]: Verify system rejects Cyrillic characters in the Email input field during Sign Up
 
 | Info | Value |
-| :--- | :--: |
+| :--- | :--- |
 | **Created** | 2026-03-29 |
 | **Last Executed** | 2026-03-29 |
 | **Status** | Passed |
