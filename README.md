@@ -22,6 +22,10 @@ The project focuses on analyzing the following key system aspects:
 
 6 Tests | 4 Passed | 2 Failed
 
+**Buf reports overview:**
+[[GC-BUG-001]](bug-reports/GC-BUG-001.md): 'About us' page opens automatically scrolled down instead of at the top
+[[GC-BUG-002]](bug-reports/GC-BUG-002.md): 'Form Habit' button fails to trigger redirection on 'About us' page after visiting 'Places' page
+
 **Test Object:** [GreenCity Website](https://www.greencity.cx.ua/#/greenCity)
 
 > **Note:** GC stands for the GreenCity project key, and the following numbers represent the sequential ID for test cases and bug reports.
