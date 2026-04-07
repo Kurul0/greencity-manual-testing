@@ -18,7 +18,7 @@
 | 1 | Hover over the burger menu icon. | - | The cursor changes into a pointer. |
 | 2 | Click the burger menu icon. | - | Menu pop-up with navigation links opens. <br>The burger menu icon animates and changes into a 'cross' (close) icon. |
 | 3 | Hover over the 'cross' (close) icon. | - | The cursor changes into a pointer. |
-| 4 | Click the 'cross' (close) icon. | - | Menu pop-up closes. <br>The 'cross' icon animates back into <br>a burger menu icon. |
+| 4 | Click the 'cross' (close) icon. | - | Menu pop-up closes. <br>The 'cross' icon animates back into a burger menu icon. |
 
 
 ## [GC-002]: Verify that an unauthorized user cannot react (like) a comment
