@@ -20,6 +20,7 @@
 | 3 | Hover over the 'cross' (close) icon. | - | The cursor changes into a pointer. |
 | 4 | Click the 'cross' (close) icon. | - | Menu pop-up closes. <br>The 'cross' icon animates back into a burger menu icon. |
 
+---
 
 ## [GC-002]: Verify that an unauthorized user cannot react (like) a comment
 
@@ -41,6 +42,7 @@
 | 1 | Hover over the 'Like' button on any comment. | - | The cursor changes into a pointer. |
 | 2 | Click the 'Like' button. | - | A 'Log In' / 'Sign In' pop-up window appears. <br>The reaction count on the comment does not increase. |
 
+---
 
 ## [GC-003]: Verify system rejects Cyrillic characters in the Email input field during Sign Up
 
