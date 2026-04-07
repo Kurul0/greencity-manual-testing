@@ -12,7 +12,8 @@ The project focuses on analyzing the following key system aspects:
 - Viewport positioning during page loading.
 - Button functionality and redirection.
 
-
+**Test-cases overview:**
+- [[GC-001]](test-cases/about-us-page-tests.md): Verify opening, closing, and hover states of the burger menu on a narrowed desktop browser
 
 **Test Object:** [GreenCity Website](https://www.greencity.cx.ua/#/greenCity)
 
