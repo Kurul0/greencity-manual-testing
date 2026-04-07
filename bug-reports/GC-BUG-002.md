@@ -8,7 +8,7 @@
 
 **Preconditions:**
 1. User is not logged in.
-2. User is on GreenCity Home page.
+2. User is on the GreenCity Home page.
 
 **Steps to Reproduce:**
 1. Click the 'Places' button in the header menu.
