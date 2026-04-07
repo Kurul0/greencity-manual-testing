@@ -13,7 +13,12 @@ The project focuses on analyzing the following key system aspects:
 - Button functionality and redirection.
 
 **Test-cases overview:**
-- [[GC-001]](test-cases/about-us-page-tests.md): Verify opening, closing, and hover states of the burger menu on a narrowed desktop browser
+- [[GC-001]](test-cases/events-page-tests.md): Verify opening and closing of the burger menu on a narrowed desktop viewport
+- [[GC-002]](test-cases/events-page-tests.md): Verify that an unauthorized user cannot react (like) a comment
+- [[GC-003]](test-cases/events-page-tests.md): Verify system rejects Cyrillic characters in the Email input field during Sign Up
+- [[GC-004]](test-cases/about-us-page-tests.md): Verify that the 'About us' page loads at the top of the viewport
+- [[GC-005]](test-cases/about-us-page-tests.md): Verify navigation of the 'Find eco places' button on the 'About us' page
+- [[GC-006]](test-cases/about-us-page-tests.md): Verify navigation of the 'Form habit' button on the 'About us' page
 
 **Test Object:** [GreenCity Website](https://www.greencity.cx.ua/#/greenCity)
 
