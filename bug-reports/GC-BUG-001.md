@@ -11,7 +11,7 @@
 2. User is on the GreenCity Home page.
 
 **Steps to Reproduce:**
-1. Click the 'About us' link in the header menu.
+1. Click the 'About us' button in the header menu.
 
 **Expected Result:** The 'About us' page opens, and the viewport is positioned at the very top of the page.
 
