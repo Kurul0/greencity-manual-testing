@@ -1,4 +1,4 @@
-## [GC-001]: Verify opening, closing, and hover states of the burger menu on a narrowed desktop browser
+## [GC-001]: Verify opening and closing of the burger menu on a narrowed desktop viewport
 
 | Info | Value |
 | :--- | :--- |
