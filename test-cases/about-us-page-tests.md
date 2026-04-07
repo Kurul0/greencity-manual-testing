@@ -15,5 +15,5 @@
 
 | Step | Action | Data | Expected Result |
 | :---: | :--- | :--: | :--- |
-| 1 | Hover over the 'About us' link in the header menu. | - | The cursor changes into a pointer. |
-| 2 | Click the 'About us' link. | - | The 'About us' page opens, and the viewport is positioned at the very top of the page. |
+| 1 | Hover over the 'About us' button in the header menu. | - | The cursor changes into a pointer. |
+| 2 | Click the 'About us' button. | - | The 'About us' page opens, and the viewport is positioned at the very top of the page. |
