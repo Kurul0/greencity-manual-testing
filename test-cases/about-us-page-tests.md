@@ -48,7 +48,7 @@
 | :--- | :--- |
 | **Created** | 2026-04-07 |
 | **Last Executed** | 2026-04-07 |
-| **Status** | Failed |
+| **Status** | Failed [(See GC-BUG-002)](../bug-reports/GC-BUG-002.md) |
 | **Environment** | Firefox v.149, Windows 10 |
 
 **Preconditions:**
