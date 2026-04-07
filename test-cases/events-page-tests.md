@@ -5,11 +5,11 @@
 | **Created** | 2026-03-29 |
 | **Last Executed** | 2026-03-29 |
 | **Status** | Passed |
-| **Environment** | Firefox v.149, Windows 10, Narrowed Viewport |
+| **Environment** | Firefox v.149, Windows 10 |
 
 **Preconditions:**
 1. User is on the GreenCity Events page.
-2. he browser window is narrowed until the main header navigation collapses and the burger menu icon appears.
+2. The browser window is narrowed until the main header navigation collapses and the burger menu icon appears.
 
 **Test Steps:**
 
